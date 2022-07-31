@@ -1,2 +1,1 @@
-# cousera-test
-Cousera test repository
+# All my solutions to the challenges Front-end mentor
